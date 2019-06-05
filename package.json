@@ -1,0 +1,30 @@
+{
+  "name": "typescript-book",
+  "version": "1.0.0",
+  "description": "Typescript Book Tutorials",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dougydoe/ts-book.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Douglas Doe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dougydoe/ts-book/issues"
+  },
+  "homepage": "https://github.com/Dougydoe/ts-book#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^5.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

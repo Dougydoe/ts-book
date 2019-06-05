@@ -1,0 +1,27 @@
+{
+  "name": "typescript-book",
+  "description": "Typescript Book Tutorials",
+  "main": "index.html",
+  "authors": [
+    "Douglas Doe"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "typescript"
+  ],
+  "homepage": "https://github.com/Dougydoe/ts-book",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^3.4.0"
+  }
+}
